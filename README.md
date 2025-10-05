@@ -1,5 +1,14 @@
 <div align="center">
-  <h1>Hi, I'm Gusti Ayu Putu Febriyanti! 👋</h1>
+   <!-- Animated Header -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=FF97C1&center=true&vCenter=true&width=435&lines=Hi+there+👋;I'm+Febriyanti!;Data+Professional+📊;Security+Enthusiast+🔐" alt="Typing SVG" /> 
+
+  <!-- Cute Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&animation=fadeIn" />
+  
+  <!-- Profile Image Frame -->
+  <img src="https://i.pinimg.com/originals/8e/ee/59/8eee59a09df21f89b4782b8775f59b4f.gif" width="200" height="200" align="center" />
+  <!-- Sparkles -->
+  <h1>Hi, I'm Gusti Ayu Putu Febriyanti!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> </h1>
   <h3>📊 Data Professional & 🔐 Security Enthusiast</h3>
   <p>Building Insights | Protecting Assets | Continuously Learning 🌱</p>
 
